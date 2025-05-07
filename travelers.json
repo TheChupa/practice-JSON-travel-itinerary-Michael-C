@@ -1,0 +1,11 @@
+{
+    "tripName" : "Euro Trip",
+    "travelers" : [
+        {"name" : "Michael", "email" : "michael@michael.com", "phone" : 1234567890},
+        {"name" : "Mom", "email" : "mom@mom.com", "phone" : 1234567890}
+    ],
+    "Destinations" : [
+        {"location" : "Berlin", "arrivalDate" : "2022-05-10", "departureDate" : "2021-08-01", "activities" : [{"title" : "Art District Tour", "time" : "9:00"}, {"title" : "Beer Hall", "time" : "8:00"}]}
+    ]
+        
+}
